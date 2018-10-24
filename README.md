@@ -6,7 +6,7 @@ Demonstrate your knowledge of how to develop an object oriented python program t
 ## Directions
 1. You will be developing a Customer Viewer application. The program will reads a list of Customer objects from a CSV file and allows the user to enter the data for a customer by specifying the customer’s ID. Here is what it looks like when running in the console:
 
-![activity8-output](https://github.com/SachinPawaskarUNO/activity8/blob/master/images/activity8-output.png)
+![activity8-output](https://github.com/uno-isqa-4900/activity8/blob/master/images/activity8-output.png)
 
 2. Download the [Customer CSV file](https://github.com/SachinPawaskarUNO/activity8/blob/master/data/customers.csv).
 
