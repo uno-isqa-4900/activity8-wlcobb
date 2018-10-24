@@ -8,7 +8,7 @@ Demonstrate your knowledge of how to develop an object oriented python program t
 
 ![activity8-output](https://github.com/uno-isqa-4900/activity8/blob/master/images/activity8-output.png)
 
-2. Download the [Customer CSV file](https://github.com/SachinPawaskarUNO/activity8/blob/master/data/customers.csv).
+2. Download the [Customer CSV file](https://github.com/uno-isqa-4900/activity8/blob/master/data/customers.csv).
 
 3. Specifications of the program:
    1. Use a Customer class to store the customer data.  This class should include these attributes: ID, firstName, lastName, company, address, city, state, zip.
