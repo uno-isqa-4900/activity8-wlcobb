@@ -11,6 +11,7 @@ def display_message():
 def find_customer(id):
     customers = db.get_customer(Customer)
 #i want to be able to loop through the db to find this.  I keep getting error. If I do not do the 100, the numbers are off.
+#subtracting the 100 puts it to where they are in the index.  Saw this in the book.
     if id>= 101 and id <=600:
         customer = customers[id-100]
         print(customer.get_address())
